@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:gravity="center_vertical">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingLeft="16dp"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="@color/timetable_list_item_available"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/timetable_time_text"
+        android:text="9:00"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@color/timetable_list_item_available"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/timetable_description_text"
+        android:text="время приема 20 минут"/>
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:id="@+id/timetable_accept"
+        android:src="@drawable/ic_action_accept"
+        android:visibility="invisible"/>
+
+</LinearLayout>

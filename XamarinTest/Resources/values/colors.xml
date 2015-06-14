@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="timetable_list_item_available">#212121</color>
+    <color name="timetable_list_item_unavailable">#727272</color>
+
+    <color name="star_accent">#00796b</color>
+    <color name="star_disabled">#727272</color>
+
+    <color name="view_pager_item_color">#212121</color>
+    <color name="view_pager_item_accent">#00796b</color>
+    <color name="view_pager_item_dayoff">#f44336</color>
+    <color name="view_pager_item_disabled">#b6b6b6</color>
+    <!--@color/accent_material_light-->
+
+    <color name="timetable_accept_button_occupied">#727272</color>
+    <color name="timetable_accept_button_free">#009688</color>
+</resources>

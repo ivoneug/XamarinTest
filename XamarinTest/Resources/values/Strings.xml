@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">XamarinTest</string>
+
+	<string name="timetable_time1">9:00</string>
+    <string name="timetable_time2">11:00</string>
+    <string name="timetable_time3">13:00</string>
+    <string name="timetable_time4">15:00</string>
+    <string name="timetable_time5">17:00</string>
+    <string name="timetable_time6">18:00</string>
+    <string name="timetable_time7">19:30</string>
+    <string name="timetable_time8">21:00</string>
+    <string name="timetable_time9">23:00</string>
+    <string name="timetable_time10">23:30</string>
+
+    <string name="timetable_descr1">утро вечера мудренее</string>
+    <string name="timetable_descr2">дорога ложка к обеду</string>
+    <string name="timetable_descr3">сделал дело - гуляй смело</string>
+    <string name="timetable_descr4">время приема занято</string>
+    <string name="timetable_descr5">время приема 20 минут</string>
+    <string name="timetable_descr6">вторая смена</string>
+    <string name="timetable_descr7">вкусный ужин</string>
+    <string name="timetable_descr8">evening party</string>
+    <string name="timetable_descr9">after party</string>
+    <string name="timetable_descr10">полуночники</string>
+</resources>
